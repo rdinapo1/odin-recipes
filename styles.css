@@ -1,15 +1,18 @@
-.recipes,
-.title, 
-.indexlogo {
+.indexrecipes,
+.indextitle, 
+.indexlogo,
+.recipetitle,
+.recipelogo {
     text-align: center;
     list-style-position:inside;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.recipes {
+.indexrecipes {
     font-size: 22px;
 }
 
-.title {
-    font-size: 25px;
+.indextitle,
+.recipetitle {
+    font-size: 29px;
 }
