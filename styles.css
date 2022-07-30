@@ -3,4 +3,13 @@
 .indexlogo {
     text-align: center;
     list-style-position:inside;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.recipes {
+    font-size: 22px;
+}
+
+.title {
+    font-size: 25px;
 }
