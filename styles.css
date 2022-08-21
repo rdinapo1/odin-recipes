@@ -24,3 +24,7 @@
     color: darkred;
     background-color: cornflowerblue;
 }
+
+* {
+    border: 2px solid red;
+  }
